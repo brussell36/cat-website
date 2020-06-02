@@ -1,6 +1,6 @@
 body {
-  background-color: #45046a;
-  color: #f1ebbb;
+  background-color: #00005c;
+  color: #def4f0;
   text-align: center;
 }
 
@@ -14,4 +14,19 @@ h1 {
 
 h2 {
   font-size: 3em;
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
+}
+
+.light-bg {
+  background-color: #e4e4e4;
+  color: #6f0000;
+}
+
+.dark-bg {
+  background-color: #00005c;
+  color: #def4f0;
 }
